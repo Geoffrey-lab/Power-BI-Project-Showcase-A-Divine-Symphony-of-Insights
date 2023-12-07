@@ -5,10 +5,10 @@ Dive into a repository that transcends conventional data analysis—here, each p
 
 1.**Hollywood Market Analysis:**
    - Venture into the glamorous yet complex world of Hollywood, dissecting market trends, box office dynamics, and the factors that shape the entertainment industry.
-#### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiZTViYjFmMjQtOGMwMi00ZjM4LWJlM2UtODYxNzZmNDA2NmU0IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
+### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiZTViYjFmMjQtOGMwMi00ZjM4LWJlM2UtODYxNzZmNDA2NmU0IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
 2. **Airport Analysis:**
    - Uncover the rhythm of airport dynamics, exploring patterns, and performance indicators that shape the aviation landscape.
-#### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiNjI3MTgzMGEtZTZjYi00MmQxLWFmODQtYWNlM2M1YzYxZTNiIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
+### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiNjI3MTgzMGEtZTZjYi00MmQxLWFmODQtYWNlM2M1YzYxZTNiIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
 3. **Global Health Expenditure:**
    - Navigate the intricate world of global health spending, understanding trends, and allocations that impact the well-being of nations.
 ### click to view interactive dashboard

@@ -11,7 +11,7 @@ Dive into a repository that transcends conventional data analysis—here, each p
 ### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiNjI3MTgzMGEtZTZjYi00MmQxLWFmODQtYWNlM2M1YzYxZTNiIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
 3. **Global Health Expenditure:**
    - Navigate the intricate world of global health spending, understanding trends, and allocations that impact the well-being of nations.
-### click to view interactive dashboard
+### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiZDBkYTRlNTUtMzdlYy00Yzk5LWIyYzMtYzU1OGJkOTg3YjA4IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
 4. **Cashflow Analysis (Project 1):**
    - The heartbeat of financial viability, delve into the first cashflow analysis project, dissecting financial intricacies and unveiling patterns.
 ### click to view interactive dashboard

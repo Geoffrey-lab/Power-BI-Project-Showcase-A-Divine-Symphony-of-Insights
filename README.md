@@ -18,6 +18,7 @@ Dive into a repository that transcends conventional data analysis—here, each p
    You can find more findings below...
    - Determined that Mondays have a consistently longer queue in Maji Ndogo, highlighting a specific challenge for water access on this day.
    - Advised citizens seeking the shortest queue time to visit water sources on Thursdays at 15:00.
+     View repository https://github.com/Geoffrey-lab/Power-BI-Water-Access-and-Safety-Analysis-Maji-ndogo-dataset- 
 ### click to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiMGI3MmI5YTQtMjI4Yy00Nzk0LTk1NjItMTFjODQ5MTUzY2ZkIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9&pageName=ReportSection
 5. **Power-BI-Life-Expectancy-Analysis:**
    - Total Number of Countries: 193
@@ -25,6 +26,7 @@ Dive into a repository that transcends conventional data analysis—here, each p
    - Average Population: 9.92 million
    - Average GDP: $6.34K
    - Total Expenditure: $16.10K
+     View repository https://github.com/Geoffrey-lab/Power-BI-Life-Expectancy-Analysis
 ### Click link to view interactive report https://app.powerbi.com/view?r=eyJrIjoiNjZmNjkyYzctOTkzNS00MDIwLWI0ZjAtNTU1NmU0YjJkNDZjIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9 
 6. **Power-BI-Marketing-Data-Analysis**
    - Answering key business questions:
@@ -32,11 +34,13 @@ Dive into a repository that transcends conventional data analysis—here, each p
      - Product in Demand
      - Underperformance Purchasing Channel
      - Country-wise Analysis
+     View repository https://github.com/Geoffrey-lab/Power-BI-Marketing-Data-Analysis 
 ### Click link to view interactive dashboard https://app.powerbi.com/viewr=eyJrIjoiMTcwZmM1ZmQtNGQ0Ni00NWM2LTlmNjYtZjIyYTQ0NGJlOWU1IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9&pageName=ReportSection
 
 7. **Power-BI-Construction-Insights**
    - Uncover the nuances of risk ownership and categories through a captivating risk score visualization.
    - Witness the ebb and flow of safety observations by Gleeds and delve into the distribution of risk categories in October, where the pie chart tells a story - All (41.24%), AA (32.81%), and XX (25.77%).
+   View repository https://github.com/Geoffrey-lab/Power-BI-Construction-Insights
 ### Click link to view interactive report https://app.powerbi.com/view?r=eyJrIjoiOWVhNmVmNjMtYjMwZC00ZDg1LTg5NzYtZGE5MjEyMTRmNjQ2IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9
 ### **Why Explore?**
 
